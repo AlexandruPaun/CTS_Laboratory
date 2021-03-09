@@ -8,5 +8,4 @@ Phase 1 - Naming conventions
   -rename valoare
   -remove the hard-coded values aka magic numbers
  
- Week 3 Initial Phase
- 
+ -add validations for input values
