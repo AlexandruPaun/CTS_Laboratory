@@ -13,12 +13,15 @@ public class DbConnection {
 		this.schema="cts";
 		
 	}
+	
+	
 	private DbConnection(String connString, String schema) {
 		super();
 		this.connString = connString;
 		this.schema = schema;
 	}
 	
+	//lazy-instantiation of the unique object
 	public static DbConnection getConnection() {
 		if(DbConnection.connection==null) {
 			connection=new DbConnection();
