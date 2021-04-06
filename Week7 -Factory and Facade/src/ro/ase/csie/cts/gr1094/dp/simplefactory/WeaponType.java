@@ -1,4 +1,4 @@
-package ro.ase.csie.cts.g1094.dp.simplefactory;
+package ro.ase.csie.cts.gr1094.dp.simplefactory;
 
 public enum WeaponType {
 
