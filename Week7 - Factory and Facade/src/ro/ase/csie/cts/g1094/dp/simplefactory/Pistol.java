@@ -11,8 +11,7 @@ public class Pistol  extends AbstractWeapon{
 
 	@Override
 	public void pewPew() {
-		// TODO Auto-generated method stub
-		
+	
 	}
 
 }

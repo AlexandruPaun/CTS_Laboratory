@@ -12,7 +12,6 @@ public class MachineGun extends AbstractWeapon{
 
 	@Override
 	public void pewPew() {
-		// TODO Auto-generated method stub
 		
 	}
 
