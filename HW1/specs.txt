@@ -1,0 +1,6 @@
+ 1) I have created a Class, an interface: AccountType, ShareInterface 
+ 2) I have created a custom exception: ValueException
+ 3) I have renamed some variables based on the LowerCamelCase naming convention also avoid " _ " if the variable is not static
+ 4) I tried to avoid using tab in the middle of the line.
+ 5) I have noticed that the Syso in line 37 is rather useless so I deleted it 
+ 6) I have override the toString method from line 42
