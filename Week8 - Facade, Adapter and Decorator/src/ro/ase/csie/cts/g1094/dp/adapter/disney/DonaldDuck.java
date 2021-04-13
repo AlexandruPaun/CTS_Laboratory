@@ -31,4 +31,14 @@ public class DonaldDuck implements DisneyActions {
 		
 	}
 
+	@Override
+	public String getName() {
+		return this.name;
+	}
+
+	@Override
+	public int getPower() {
+		return this.powerLevel;
+	}
+
 }
